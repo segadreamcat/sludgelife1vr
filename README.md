@@ -1,12 +1,11 @@
 ﻿# SLUDGE LIFE VR - tester build 0.9.23
 
-the spray can recharges much faster now. let go of the trigger and give it a couple quick shakes. hold left grip while moving to run. item/climbing grabs, laptop precision and tool chords keep priority. crouch is on the left trigger, jump is still right A. keep the left grip released for crouch; grip + trigger still does vandal eyes. right B toggles the camera now and the shoulder grab still works.
 
-alrightY, here's SLUDGE LIFE 1 in VR. i wanted it to feel like you're actually Ghost: green hands, black biker gloves, black nails, the ant tattoo, and a bunch of stuff you can mess with physically.
+alrighty, here's SLUDGE LIFE 1 in VR. i wanted it to feel like you're actually Ghost: green hands, black biker gloves, black nails, the ant tattoo, and a bunch of stuff you can mess with physically.
 
 you can climb with the spray can in your right hand now. grip the ladder and pull like normal, then keep your left grip on the ladder while you let go with the right and paint with the right trigger. release both grips to drop.
 
-this is a test build. go play, try the weird shit, and tell me what feels wrong. the rocket red-button touch target is on the actual red cap now. the old low D, G, A and B acid-bass sounds are back with more distortion and bit-crushing. they ring for about 2.8 seconds. the kick still hits louder. the kick is still a short dirty thud. the last build's frame-drop fixes are still in here. the club mpc, slow button pokes, and proper spray-can sounds are included. you gotta shake the can every so often now too. the full laptop screen, animated slugs and middle-finger shortcut are included. those still need more headset testing.
+this is a beta build. go play, try the things, and tell me what feels wrong. 
 
 ## get it running
 
