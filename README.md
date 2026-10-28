@@ -1,4 +1,4 @@
-﻿# SLUDGE LIFE VR - tester build 0.9.23
+﻿# SLUDGE LIFE VR - beta v1
 
 
 alrighty, here's SLUDGE LIFE 1 in VR. i wanted it to feel like you're actually Ghost: green hands, black biker gloves, black nails, the ant tattoo, and a bunch of stuff you can mess with physically.
