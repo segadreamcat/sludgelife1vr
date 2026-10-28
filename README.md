@@ -2,7 +2,7 @@
 
 the spray can recharges much faster now. let go of the trigger and give it a couple quick shakes. hold left grip while moving to run. item/climbing grabs, laptop precision and tool chords keep priority. crouch is on the left trigger, jump is still right A. keep the left grip released for crouch; grip + trigger still does vandal eyes. right B toggles the camera now and the shoulder grab still works.
 
-alright homes, here's SLUDGE LIFE in VR. i wanted it to feel like you're actually Ghost: green hands, black biker gloves, black nails, the ant tattoo, and a bunch of stuff you can mess with physically.
+alrightY, here's SLUDGE LIFE 1 in VR. i wanted it to feel like you're actually Ghost: green hands, black biker gloves, black nails, the ant tattoo, and a bunch of stuff you can mess with physically.
 
 you can climb with the spray can in your right hand now. grip the ladder and pull like normal, then keep your left grip on the ladder while you let go with the right and paint with the right trigger. release both grips to drop.
 
