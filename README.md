@@ -62,30 +62,6 @@ on the laptop, **left grip slows the cursor**, left stick scrolls, and right gri
 - with the glider out, empty hands should grab the metal handles automatically. keep holding right A; steer with the left stick.
 - on mushrooms, the left stick flies where you're looking, including up/down. left Y uses the game's return action.
 
-to flip somebody off: hold **left X with the left grip released**, and release the right grip to extend the middle finger. squeeze the grip to lower it. this uses the Quest controller's touch/grip input, not optical finger tracking.
 
-the game's unlocks and story rules still apply. this doesn't give you every item at the start.
 
-## stuff i really want tested
-
-walk around the club and the rest of the map, play the mpc, poke buttons and pet a cat. tell me if the stutters settle down. after 20 seconds of play, hold both grips for a capture if it is still dropping frames; the matching text now includes timing numbers.
-
-check the whole laptop screen, especially the left edge icons, and make sure you can actually click them. hold a slug away from your face and rotate your wrist. drink a soda and check that the drinking animation is the right way up. shake the spray can, then stop and listen for the sound to settle.
-
-try climbing into a tag with the can out, keeping your left grip on the ladder while painting, and grabbing the next hold with the right grip. then try ladders and getting off the top, the glider handles, camera grip/photos, basketball shots, red buttons, food, pets and doors. try normal progress too so we catch anything that messes with the actual game. do some room-scale turning and make sure forward still makes sense.
-
-## if something gets fucked up
-
-tell me **which game/build, headset, connection method, where you were, what you did, and what you expected**. a screenshot and the steps to make it happen again help way more than just "it's broken."
-
-hold **both grips for a second**, or press **F8**, for eye-view captures. they go in `BepInEx/SludgeLifeVR-Captures` inside the game folder. the screenshots won't include SteamVR/Virtual Desktop system overlays. include the matching `.txt` capture report and `BepInEx/LogOutput.log` when you send a bug. **F9** writes a scene report. **F11** toggles VR.
-
-if you're stuck looking at SteamVR's "next up" screen or it launches flat, close the game, check the headset connection in SteamVR, then try **LAUNCH-VR.cmd** again. if it's still busted, send the log.
-
-## change settings or take it out
-
-after the first run, settings are in `BepInEx/config/local.sludgelife.vr.cfg`. close the game before editing. smooth turning defaults to 240 degrees/second. lower that if it's too much, or set `SmoothTurning = false` for snap turning.
-
-to remove this package, close the game and run **UNINSTALL.cmd**. it restores matching original files and removes matching mod files from its install record. it leaves your saves, captures, logs, configs and backups alone. files changed by something else are kept, and the loader is kept if other mods need it.
-
-this is unofficial. you still need to own the game. source is in `Source/`; dependency licenses and source archives are in `THIRD-PARTY/`. now go get weird and let me know what breaks.
+this is unofficial. you still need to own the game. source is in `Source/`; dependency licenses and source archives are in `THIRD-PARTY/`. now go get weird and let me know what breaks. I used Codex to make this mod. 
