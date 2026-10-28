@@ -1,0 +1,77 @@
+{
+  "originalSha256": "8B436D0AE8931993CA3B9DD2516F01D86A426F1DD9D20EC0398BB421F68824E4",
+  "patchedSha256": "0BBEA6B0C67E455AFEBFE68B8D3D8F646B489403438F0EA1F18CD56FFC7145CF",
+  "description": "Enable legacy OpenVR in BuildSettings only; all other object payloads unchanged.",
+  "hunks": [
+    {
+      "offset": 6,
+      "remove": 2,
+      "insert": "QEA="
+    },
+    {
+      "offset": 14,
+      "remove": 2,
+      "insert": "BIA="
+    },
+    {
+      "offset": 672,
+      "remove": 1,
+      "insert": "LA=="
+    },
+    {
+      "offset": 688,
+      "remove": 1,
+      "insert": "WA=="
+    },
+    {
+      "offset": 708,
+      "remove": 1,
+      "insert": "0A=="
+    },
+    {
+      "offset": 728,
+      "remove": 1,
+      "insert": "OA=="
+    },
+    {
+      "offset": 748,
+      "remove": 1,
+      "insert": "uA=="
+    },
+    {
+      "offset": 768,
+      "remove": 1,
+      "insert": "uA=="
+    },
+    {
+      "offset": 788,
+      "remove": 1,
+      "insert": "MA=="
+    },
+    {
+      "offset": 808,
+      "remove": 2,
+      "insert": "CDo="
+    },
+    {
+      "offset": 1142,
+      "remove": 2944,
+      "insert": ""
+    },
+    {
+      "offset": 84620,
+      "remove": 2,
+      "insert": "AQAAAAYAAABPcGVuVlI="
+    },
+    {
+      "offset": 180812,
+      "remove": 0,
+      "insert": "AAAAAA=="
+    },
+    {
+      "offset": 215980,
+      "remove": 0,
+      "insert": "AAAAAA=="
+    }
+  ]
+}

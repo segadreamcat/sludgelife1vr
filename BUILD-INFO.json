@@ -1,0 +1,11 @@
+﻿{
+  "version": "0.9.23",
+  "game": "SLUDGE LIFE",
+  "profile": "SludgeLifeVR",
+  "pluginSha256": "AF4AAB63097F010B5DF3A72BAB32863E0F7EE535CC6A6D5AA6EFB00D7C980F1E",
+  "runtimeRelease": "BepInEx_win_x64_5.4.23.4",
+  "runtimeArchiveSha256": "F881201B79DA03E513BF97CDF39607FFA7F9E0D31A519B1AEECA8EB60F8309E7",
+  "doorstopVersion": "4.4.1",
+  "testedHeadsetSetup": "Quest 3 / Virtual Desktop / SteamVR",
+  "latestUiSlugAudioChangesNeedHeadsetTesting": true
+}

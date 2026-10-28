@@ -1,0 +1,11 @@
+﻿{
+  "profile": "SludgeLifeVR",
+  "gameName": "SLUDGE LIFE",
+  "gameFolder": "Sludge Life",
+  "exe": "SludgeLife.exe",
+  "process": "SludgeLife",
+  "dataFolder": "SludgeLife_Data",
+  "appId": "1144770",
+  "version": "0.9.23",
+  "openvrPatch": true
+}
